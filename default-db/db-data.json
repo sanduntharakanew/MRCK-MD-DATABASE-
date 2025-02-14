@@ -5,16 +5,16 @@
   "VERSION": "0.0.1",
   "L-UPDATED": "2025-02-14",
   
-  "data-botOwn": {
+  "data_botOwn": {
     "developer": "94754015815",
     "specialCoOwners": ["94762695098", "94754015815"],
     "detectOwn": ["👨🏻‍💻", "🦹🏻‍♂️"]
   },
-  "data-botInfo": {
+  "data_botInfo": {
     "githubRepo": "",
     "pairWeb": ""
   },
-  "data-botMedia": {
+  "data_botMedia": {
     "logo": "https://raw.githubusercontent.com/sanduntharakanew/MRCK-MD-DATABASE-/refs/heads/main/data-media/bd1d853d-7d62-4b38-b30b-2afde89732c6.jpeg",
     "thumbnailUrl": "https://raw.githubusercontent.com/sanduntharakanew/MRCK-MD-DATABASE-/refs/heads/main/data-media/Leonardo_Phoenix_A_stunning_logo_for_MRCKMD_a_simple_WhatsApp_3.jpeg",
     "sourceUrl": "https://whatsapp.com/channel/0029VagXKQ0DJ6HB1qdaKh1i",
